@@ -8,3 +8,11 @@
 ```bash
 gcc index.c -o compiledBinary && ./compiledBinary
 ```
+
+| Common Format Specifier |                   |
+| ----------------------- | ----------------- |
+| **Format specifier**    | **Used for**      |
+| `%d` or `%i`            | Decimal Integer 1 |
+| `%f`                    | Floating values   |
+| `%c`                    | Character         |
+| `%s`                    | String            |
