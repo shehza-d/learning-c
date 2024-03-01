@@ -21,13 +21,13 @@ gcc index.c -o compiledBinary && ./compiledBinary
 
 Keywords are reserved name that have some pre-defined meaning in C language.
 
-|          |        |          |          |
-| -------- | ------ | -------- | -------- |
-| auto     | double | int      | struct   |
-| break    | else   | long     | switch   |
-| case     | enum   | register | typedef  |
-| char     | extern | return   | union    |
-| continue | for    | signed   | void     |
-| do       | if     | static   | while    |
-| default  | goto   | sizeof   | volatile |
-| const    | float  | short    | unsigned |
+|          |         |        |          |       |
+| -------- | ------- | ------ | -------- | ----- |
+| auto     | double  | int    | struct   | break |
+| else     | long    | switch | case     | enum  |
+| register | typedef | char     | extern  | return |
+| union    |
+| continue | for     | signed | void     |
+| do       | if      | static | while    |
+| default  | goto    | sizeof | volatile |
+| const    | float   | short  | unsigned |

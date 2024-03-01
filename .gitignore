@@ -2,6 +2,7 @@
 *.d
 
 **/compiledBinary
+**/compiled
 
 # Object files
 *.o

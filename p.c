@@ -24,6 +24,9 @@ int main()
 	int c = *point;
 
 	// printf("\n memory address %d", point);
-// https://www.studysmarter.co.uk/explanations/computer-science/computer-programming/c-memory-address/
+	// https://www.studysmarter.co.uk/explanations/computer-science/computer-programming/c-memory-address/
+
+	// scanf()
+
 	return 0;
 }
