@@ -3,6 +3,8 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c" width="70" /></p>
 
+https://www.w3schools.com/c/index.php
+
 ## To compile and run C program
 
 ```bash
