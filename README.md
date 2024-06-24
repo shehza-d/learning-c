@@ -5,6 +5,8 @@
 
 https://www.w3schools.com/c/index.php
 
+### [Style Guide for C](https://cs50.readthedocs.io/style/c/)
+
 ## To compile and run C program
 
 ```bash
